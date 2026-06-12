@@ -21,3 +21,5 @@
 5. Notifications
    - Notifications are non-blocking, clearly visible, and auto-dismiss after a few seconds.
    - Repeated triggers should not cause visual glitches or stacking of multiple notification boxes.
+
+for cards' text use ⋮⋮ symbol
